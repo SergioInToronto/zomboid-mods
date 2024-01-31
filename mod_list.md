@@ -1,3 +1,6 @@
+# Descriptive Tooltips for Skill Levels
+https://steamcommunity.com/sharedfiles/filedetails/?id=3134776712
+
 # Map Legend UI
 https://steamcommunity.com/sharedfiles/filedetails/?id=2710167561
 
