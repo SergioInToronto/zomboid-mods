@@ -1,20 +1,64 @@
-# Descriptive Tooltips for Skill Levels
+# Added
+
+### Descriptive Tooltips for Skill Levels
 https://steamcommunity.com/sharedfiles/filedetails/?id=3134776712
 
-# Map Legend UI
+### Map Legend UI
 https://steamcommunity.com/sharedfiles/filedetails/?id=2710167561
 
-# Extra Map Symbols
+### Extra Map Symbols
 https://steamcommunity.com/sharedfiles/filedetails/?id=2701170568
 
-# More Maps (Updated 2023)
+### More Maps (Updated 2023)
 https://steamcommunity.com/sharedfiles/filedetails/?id=2729427093
 
-# BookCollection V10.5
+### BookCollection V10.5
 https://steamcommunity.com/sharedfiles/filedetails/?id=854848547
 
-# More Zombie Death Animations
+### More Zombie Death Animations
 https://steamcommunity.com/sharedfiles/filedetails/?id=3147442677
+
+# Considering
+
+### Additional Skill Books 2 (41 build)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2209099061
+
+### Autotsar Trailers
+https://steamcommunity.com/sharedfiles/filedetails/?id=2282429356
+
+### Autotsar Tuning Atelier - Bus [TUNING 2.0]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2592358528
+
+### Autotsar Tuning Atelier - Fjord Mustard [TUNING 2.0]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2681635926
+
+### https://steamcommunity.com/sharedfiles/filedetails/?id=2636100523
+https://steamcommunity.com/sharedfiles/filedetails/?id=2636100523
+
+### Backpack Borders
+https://steamcommunity.com/sharedfiles/filedetails/?id=2808679062
+
+### Better Sorting
+https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159
+
+### Combat Text (B40+B41) (health bars!)
+https://steamcommunity.com/sharedfiles/filedetails/?id=2286124931
+
+### Common Sense
+https://steamcommunity.com/sharedfiles/filedetails/?id=2875848298
+* Adds more recipies (eg: spear from broom), cans can be opened with knifes, etc. Not really needed
+
+### Containers!
+https://steamcommunity.com/sharedfiles/filedetails/?id=2625625421
+
+### Improved Build Menu [Build 41]
+https://steamcommunity.com/sharedfiles/filedetails/?id=1969456967
+
+### SpiffUI - Inventory
+https://steamcommunity.com/sharedfiles/filedetails/?id=2799848602
+
+## More:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2924381071
 
 ---
 
