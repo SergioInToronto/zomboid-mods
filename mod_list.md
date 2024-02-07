@@ -57,6 +57,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1969456967
 ### SpiffUI - Inventory
 https://steamcommunity.com/sharedfiles/filedetails/?id=2799848602
 
+### Tailoring Fix
+https://steamcommunity.com/sharedfiles/filedetails/?id=2138726101
+
+
+
+
+---
+
 ## More:
 https://steamcommunity.com/sharedfiles/filedetails/?id=2924381071
 
