@@ -60,7 +60,21 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2799848602
 ### Tailoring Fix
 https://steamcommunity.com/sharedfiles/filedetails/?id=2138726101
 
+### Axe Overhaul
+https://steamcommunity.com/sharedfiles/filedetails/?id=2679338204
 
+### 75% wood weight
+https://steamcommunity.com/sharedfiles/filedetails/?id=2671262464
+
+### Pumps Have Propane
+https://steamcommunity.com/sharedfiles/filedetails/?id=2739570406
+
+### Remove Debris
+https://steamcommunity.com/sharedfiles/filedetails/?id=2927744729
+
+### Rideable Truckbed
+https://steamcommunity.com/sharedfiles/filedetails/?id=2877551501
+note: must be imported after other vechile mods
 
 
 ---
