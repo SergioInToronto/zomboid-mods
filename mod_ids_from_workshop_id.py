@@ -10,7 +10,7 @@ for folder in os.listdir(BASE_DIR):
     mod_path = os.path.join(BASE_DIR, folder, 'mods')
     subfolders = os.listdir(mod_path)
 
-    # Some mods include... multiple mods. Often an "old" and latest version
+    # Some mods include multiple mods. Often an "old" and latest version
     for mod_folder in subfolders:
         mod_info_path = os.path.join(mod_path, mod_folder, 'mod.info')
 
